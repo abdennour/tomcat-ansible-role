@@ -1,5 +1,5 @@
-[![Build Status](https://travis-ci.org/zaxos/tomcat-ansible-role.svg?branch=master)](https://travis-ci.org/zaxos/tomcat-ansible-role)
-[![Ansible Galaxy](https://img.shields.io/badge/galaxy-_zaxos.tomcat--ansible--role-blue.svg)](https://galaxy.ansible.com/zaxos/tomcat-ansible-role/)
+[![Build Status](https://travis-ci.org/abdennour/tomcat-ansible-role.svg?branch=master)](https://travis-ci.org/abdennour/tomcat-ansible-role)
+[![Ansible Galaxy](https://img.shields.io/badge/galaxy-_abdennour.tomcat--ansible--role-blue.svg)](https://galaxy.ansible.com/abdennour/tomcat-ansible-role/)
 
 tomcat-ansible-role
 ===================
